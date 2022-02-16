@@ -1,4 +1,4 @@
-## Danilo Yukio Kodavara
+## Danilo Yukio Kodavara || Loading FullCycle Developer... :alien:
 
 ### SKILLS:
 
