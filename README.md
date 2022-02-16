@@ -1,4 +1,5 @@
-## Danilo Yukio Kodavara || Loading FullCycle Developer... :alien:
+# Loading FullCycle Developer... :alien:
+I'm Danilo Yukio Kodavara, eternal tech student, and commited to knowledge.
 
 ### SKILLS:
 
