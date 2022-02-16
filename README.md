@@ -20,7 +20,7 @@
 ![Elastic](https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-# Loading FullCycle Developer... :alien:
+# :recycle:	Loading FullCycle Developer... :alien:
 - I'm Danilo Yukio Kodavara, eternal tech student, and commited to knowledge.
 
 <div>
