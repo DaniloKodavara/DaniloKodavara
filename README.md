@@ -23,8 +23,6 @@
 # Loading FullCycle Developer... :alien:
 - I'm Danilo Yukio Kodavara, eternal tech student, and commited to knowledge.
 
-## Skills:
-
 <div>
 <a href="https://github.com/DaniloKodavara">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
