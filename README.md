@@ -21,7 +21,7 @@
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
 # :recycle:	Loading FullCycle Developer... :alien:
-- I'm Danilo Yukio Kodavara, eternal tech student, and commited to knowledge.
+### - I'm Danilo Yukio Kodavara, eternal tech student, and commited to knowledge.
 
 <div>
 <a href="https://github.com/DaniloKodavara">
