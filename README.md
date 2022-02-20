@@ -23,7 +23,7 @@
 # :recycle:	Loading FullCycle Developer... :alien:
 ### -Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
 <div>
-  <img height="80em" width="80em" align="right" src="https://i.imgur.com/7Zv7XHq.png"/>
+  <img height="70em" width="70em" align="right" src="https://i.imgur.com/7Zv7XHq.png"/>
 </div>
 
 <div>
