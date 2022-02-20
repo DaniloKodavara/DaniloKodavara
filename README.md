@@ -20,7 +20,8 @@
 ![Elastic](https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-# :recycle:	Loading FullCycle Developer... :alien: ![alt text](https://imgur.com/gallery/RlKOYsl)
+<img height="60em" width="60em" src="https://imgur.com/gallery/RlKOYsl" />
+# :recycle:	Loading FullCycle Developer... :alien:
 ### -Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
 
 <div>
