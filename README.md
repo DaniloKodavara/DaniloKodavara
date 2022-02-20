@@ -28,7 +28,7 @@
 ### -Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
 
 <div>
-<img height="173em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
+<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
 <img height="172em" src="https://github-readme-stats.vercel.app/api?username=DaniloKodavara&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
   
