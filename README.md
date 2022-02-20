@@ -20,13 +20,12 @@
 ![Elastic](https://img.shields.io/badge/Elastic-FFFFFF?style=for-the-badge&logo=elastic&logoColor=black)
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
-<a href="https://i.imgur.com/7Zv7XHq.png">
-  
-# :recycle:	Loading FullCycle Developer... :alien:
-### -Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
 <div>
   <img height="70em" width="70em" align="right" src="https://i.imgur.com/7Zv7XHq.png"/>
 </div>
+
+# :recycle:	Loading FullCycle Developer... :alien:
+### -Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
 
 <div>
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
