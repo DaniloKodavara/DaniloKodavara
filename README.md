@@ -35,11 +35,11 @@
 ## Companies I Worked
 
 <div>
-  <a href="https://www.tcs.com/" target="_blank"><img src="https://img.shields.io/badge/TCS-Tata%20Consultancy%20Services-blue" target="_blank"></a>
-  <a href="https://www.gft.com/" target="_blank"><img src="https://img.shields.io/badge/GFT-Gesellschaft%20f%C3%BCr%20Technologietransfer-blue" target="_blank"></a>
-  <a href="https://www.brq.com/" target="_blank"><img src="https://img.shields.io/badge/BRQ-Digital%20Solutions%20-blue" target="_blank"></a>
-  <a href="https://www.b3.com.br/" target="_blank"><img src="https://img.shields.io/badge/B3-A%20Bolsa%20do%20Brasil-blue" target="_blank"></a>
-  <a href="https://www.americanas.com.br/" target="_blank"><img src="https://img.shields.io/badge/S.A-Americanas-red" target="_blank"></a>
+  <a href="https://www.tcs.com/" target="_blank"><img src="https://img.shields.io/badge/2017-Tata%20Consultancy%20Services-blue" target="_blank"></a>
+  <a href="https://www.gft.com/" target="_blank"><img src="https://img.shields.io/badge/2019-GFT%20Technologies-blue" target="_blank"></a>
+  <a href="https://www.brq.com/" target="_blank"><img src="https://img.shields.io/badge/2020-BRQ%20Digital%20Solutions-blue" target="_blank"></a>
+  <a href="https://www.b3.com.br/" target="_blank"><img src="https://img.shields.io/badge/2021-B3%20A%20Bolsa%20do%20Brasil-blue" target="_blank"></a>
+  <a href="https://www.americanas.com.br/" target="_blank"><img src="https://img.shields.io/badge/2022-Americanas%20S.A-red" target="_blank"></a>
 </div>
   
 ## Do you like my work? Buy me a Coffee :grin::coffee:
