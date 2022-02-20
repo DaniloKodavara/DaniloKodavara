@@ -21,6 +21,7 @@
 ![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 
 <a href="https://i.imgur.com/7Zv7XHq.png">
+  
 # :recycle:	Loading FullCycle Developer... :alien:
 ### -Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
 <div>
