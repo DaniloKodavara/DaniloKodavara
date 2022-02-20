@@ -31,6 +31,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloKodavara&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
+  
+### Do you like my work? Buy me a Coffee =)
+
+<p><a href="https://www.buymeacoffee.com/danilokoda">
+<img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="W3Schools.com" width="400">
+</a></p>
 
 ### Contatos:
 
@@ -39,8 +45,4 @@
 <a href="https://www.linkedin.com/in/danilo-kodavara/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
   
-Do you like my work? Buy me a Coffee =)
 
-<p><a href="https://www.buymeacoffee.com/danilokoda">
-<img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="W3Schools.com" width="400">
-</a></p>
