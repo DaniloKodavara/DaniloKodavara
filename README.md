@@ -27,12 +27,12 @@
 </div>
 
 <div>
-<a href="https://i.imgur.com/7Zv7XHq.png">contact
+<a href="https://i.imgur.com/7Zv7XHq.png">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloKodavara&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
   
-### Do you like my work? Buy me a Coffee =)
+### Do you like my work? Buy me a Coffee :grin::coffee:
 
 <p><a href="https://www.buymeacoffee.com/danilokoda">
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="W3Schools.com" width="400">
