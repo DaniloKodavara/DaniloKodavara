@@ -25,14 +25,24 @@
 </div>
 
 # :recycle:	Loading FullCycle Developer... :alien:
-### -Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
+### - Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
 
 <div>
 <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
 <img height="172em" src="https://github-readme-stats.vercel.app/api?username=DaniloKodavara&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
+
+## Companies I Worked
+
+<div>
+  <a href="https://www.tcs.com/" target="_blank"><img src="https://img.shields.io/badge/TCS-Tata%20Consultancy%20Services-blue" target="_blank"></a>
+  <a href="https://www.gft.com/" target="_blank"><img src="https://img.shields.io/badge/GFT-Gesellschaft%20f%C3%BCr%20Technologietransfer-blue" target="_blank"></a>
+  <a href="https://www.brq.com/" target="_blank"><img src="https://img.shields.io/badge/BRQ-Digital%20Solutions%20-blue" target="_blank"></a>
+  <a href="https://www.b3.com.br/" target="_blank"><img src="https://img.shields.io/badge/B3-A%20Bolsa%20do%20Brasil-blue" target="_blank"></a>
+  <a href="https://www.americanas.com.br/" target="_blank"><img src="https://img.shields.io/badge/S.A-Americanas-red" target="_blank"></a>
+</div>
   
-### Do you like my work? Buy me a Coffee :grin::coffee:
+## Do you like my work? Buy me a Coffee :grin::coffee:
 
 <p><a href="https://www.buymeacoffee.com/danilokoda">
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="W3Schools.com" width="300">
