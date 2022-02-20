@@ -25,7 +25,7 @@
 ### -Hello, I'm Danilo Kodavara ✌️, eternal tech student, and commited to knowledge.
 
 <div>
-<a href="https://github.com/DaniloKodavara">
+<a href="https://i.imgur.com/7Zv7XHq.png">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloKodavara&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
