@@ -27,7 +27,7 @@
 </div>
 
 <div>
-<a href="https://i.imgur.com/7Zv7XHq.png">
+<a href="https://i.imgur.com/7Zv7XHq.png">contact
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DaniloKodavara&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
@@ -38,7 +38,7 @@
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="W3Schools.com" width="400">
 </a></p>
 
-### Contatos:
+### Contatcs
 
 <div>
 <a href = "mailto:danilo.kodavara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
