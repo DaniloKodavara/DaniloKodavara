@@ -42,7 +42,7 @@
   <a href="https://www.americanas.com.br/" target="_blank"><img src="https://img.shields.io/badge/2022-Americanas%20S.A-red" target="_blank"></a>
 </div>
   
-## Do you like my work? Buy me a Coffee :grin::coffee:
+## :grin: Do you like my work? Buy me a Coffee :coffee:
 
 <p><a href="https://www.buymeacoffee.com/danilokoda">
 <img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="W3Schools.com" width="300">
