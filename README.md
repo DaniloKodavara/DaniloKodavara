@@ -41,8 +41,8 @@
 ### - Hello, I'm Danilo Y. Kodavara ✌️, eternal tech student, and commited to knowledge.
 
 <div>
-<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniloKodavara&layout=compact&langs_count=7&theme=calm"/>
-<img height="172em" src="https://github-readme-stats.vercel.app/api?username=DaniloKodavara&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
+<img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danyukod&layout=compact&langs_count=7&theme=calm"/>
+<img height="172em" src="https://github-readme-stats.vercel.app/api?username=danyukod&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
 
 ## :office: Companies Where I Worked
