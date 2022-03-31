@@ -57,9 +57,11 @@
   
 ## :grin: Do you like my work? Buy me a Coffee :coffee:
 
-<p><a href="https://www.buymeacoffee.com/danilokoda">
-<img src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-2.svg" alt="W3Schools.com" width="300">
-</a></p>
+<p>
+  <a href="https://www.buymeacoffee.com/danilokoda">
+    <img src="https://uc1a5c6604a335a6f8bad5e0be51.previews.dropboxusercontent.com/p/thumb/ABd9ePsdlFvDich2d-5hVL1yLyCgRuBBu37M7S3Df1TJHxOXzj3oEXbauCLtfcluJscW6-Qk04A9gJnD90sfA1CEKyD0RP-zVsXkB77FJz06a06MLEgYNIxn-jHeLTPXoQo-YuGVrEWUEHZctpCqkuWH6Asc-lAX05NO6iUKrTx2IORboWFCGBz0Dd715S-EjbBUqd5nxqCq_PW_at6dOChzpO9OWutFqWi8ER2cZjsT3Egix7M51d7C69tJKixMFMTQY46-eTDoJq_peY0cFgZSDcwILU8jVow_mpZpPFSEYVXokROYj7deq3dleksW223dIM5jFjAfkyoJE9qRgI0DmCUQ1mupy5yCg5qzSxZ_AK2v0or4spR11CsGPI77RlE/p.png" alt="W3Schools.com" background-color="white" width="300">
+  </a>
+</p>
 
 <div align="right">
 <a href = "mailto:danilo.kodavara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
