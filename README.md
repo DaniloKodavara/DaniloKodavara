@@ -45,7 +45,7 @@
 <img height="172em" src="https://github-readme-stats.vercel.app/api?username=danyukod&show_icons=true&theme=calm&include_all_commits=true&count_private=true"/>
 </div>
 
-## :office: Companies Where I Worked
+## :office: Companies Where I Work(ed)
 
 <div>
   <a href="https://www.tcs.com/" target="_blank"><img src="https://img.shields.io/badge/2017/2018-Tata%20Consultancy%20Services-blue" target="_blank"></a>
