@@ -58,7 +58,8 @@
   <a href="https://www.gft.com/" target="_blank"><img src="https://img.shields.io/badge/2019/2020-GFT%20Technologies-blue" target="_blank"></a>
   <a href="https://www.brq.com/" target="_blank"><img src="https://img.shields.io/badge/2020/2021-BRQ%20Digital%20Solutions-blue" target="_blank"></a>
   <a href="https://www.b3.com.br/" target="_blank"><img src="https://img.shields.io/badge/2021/2022-B3%20A%20Bolsa%20do%20Brasil-blue" target="_blank"></a>
-  <a href="https://www.americanas.com.br/" target="_blank"><img src="https://img.shields.io/badge/2022/NOW-Americanas%20S.A-red" target="_blank"></a>
+  <a href="https://www.americanas.com.br/" target="_blank"><img src="https://img.shields.io/badge/2022/2023-Americanas%20S.A-red" target="_blank"></a>
+  <a href="https://www.americanas.com.br/" target="_blank"><img src="https://img.shields.io/badge/2023/NOW-Itau%20Unibanco-orange" target="_blank"></a>
 </div>
   
 ## :grin: Do you like my work? Buy me a Coffee :coffee:
