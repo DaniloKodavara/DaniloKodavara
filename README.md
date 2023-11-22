@@ -68,7 +68,7 @@
 <div align="left">
 <p>
   <a href="https://www.buymeacoffee.com/danilokoda">
-    <img src="https://azureblogpl.blob.core.windows.net/blog/2021/09/skiptheflip_buymeacoffee3_creativeworkdonations.png" alt="W3Schools.com" background-color="white" width="300">
+    <img src="https://149427221.v2.pressablecdn.com/wp-content/uploads/2021/01/coffee.png" alt="W3Schools.com" background-color="white" width="300">
   </a>
 </p>
 
