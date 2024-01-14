@@ -63,14 +63,6 @@
   <a href="https://www.americanas.com.br/" target="_blank"><img src="https://img.shields.io/badge/2022/2023-Americanas%20S.A-red" target="_blank"></a>
   <a href="https://www.itau.com.br/" target="_blank"><img src="https://img.shields.io/badge/2023/NOW-Itaú%20Unibanco-orange" target="_blank"></a>
 </div>
-  
-## :grin: Do you like my work? Buy me a Coffee :coffee:
-<div align="left">
-<p>
-  <a href="https://www.buymeacoffee.com/danilokoda">
-    <img src="https://149427221.v2.pressablecdn.com/wp-content/uploads/2021/01/coffee.png" alt="W3Schools.com" background-color="white" width="300">
-  </a>
-</p>
 
 
 <a href = "mailto:danilo.kodavara@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
