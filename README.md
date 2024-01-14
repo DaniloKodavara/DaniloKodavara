@@ -1,3 +1,6 @@
+# :recycle:	Loading FullCycle Developer... :alien:
+### - Hello, I'm Danilo Y. Kodavara ✌️, eternal tech student, and commited to knowledge.
+
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
@@ -44,9 +47,6 @@
 <div>
   <img height="70em" width="70em" align="right" src="https://i.imgur.com/7Zv7XHq.png"/>
 </div>
-
-# :recycle:	Loading FullCycle Developer... :alien:
-### - Hello, I'm Danilo Y. Kodavara ✌️, eternal tech student, and commited to knowledge.
 
 <div>
 <img height="172em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danyukod&layout=compact&langs_count=7&theme=calm"/>
